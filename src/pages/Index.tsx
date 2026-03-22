@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { Send, ImagePlus, Loader2, Bot, User } from "lucide-react";
 
 const GROQ_API_KEY = "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";
